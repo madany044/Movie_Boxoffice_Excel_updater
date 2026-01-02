@@ -96,6 +96,8 @@ data/latest_update.txt
 python scripts/update_excel.py
 ```
 
+<div align="center">
+  
 ## Designed & Developed By 
 [ MADAN Y ]
 
